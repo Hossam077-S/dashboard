@@ -1,0 +1,3 @@
+// Copy the package.json and then:
+
+npm i --legacy-peer-deps
